@@ -43,10 +43,6 @@ Management system for law firms featuring client management, quotes, payments, a
 
 ---
 
-## 🛠️ Requirements & Security
-- **Requirements**: Docker & Docker Compose, External PostgreSQL.
-- **Security**: ⚠️ **IMPORTANT**: Never commit sensitive credentials (`.env`, secrets, tokens) to the source code.
-- **Variables & Manual**: See [Manuale.md](Manuale.md) for full documentation.
 
 ## 📄 License
 https://github.com/DAVIDE-ph/pLMS/blob/main/LICENSE
