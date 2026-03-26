@@ -47,3 +47,9 @@ Sistema di gestione per studi legali con funzionalità per clienti, preventivi, 
 ## Licenza
 
 https://github.com/DAVIDE-ph/pLMS/blob/main/LICENSE
+
+
+## Live Test 
+Prova la pagina di test <a href="https://lmsdemo.dph.ovh"> Click  Here</a><br>
+username = demo<br>
+Password = demo
