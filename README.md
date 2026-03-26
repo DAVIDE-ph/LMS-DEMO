@@ -46,3 +46,8 @@ Management system for law firms featuring client management, quotes, payments, a
 
 ## 📄 License
 https://github.com/DAVIDE-ph/pLMS/blob/main/LICENSE
+
+## Live Test 
+<a href="https://lmsdemo.dph.ovh"> Click  Here</a>
+username = demo
+Password = demo
