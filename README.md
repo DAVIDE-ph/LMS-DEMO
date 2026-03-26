@@ -51,3 +51,10 @@ https://github.com/DAVIDE-ph/pLMS/blob/main/LICENSE
 try live test <a href="https://lmsdemo.dph.ovh"> Click  Here</a><br>
 username = demo<br>
 Password = demo
+
+## 📢 Info & Requests
+
+| Platform | Link |
+| :--- | :--- |
+| **Discord** | [Join our Server](https://discord.gg/ySyasekRds) |
+| **Telegram** | [Follow the Channel](https://t.me/dphovh_chanel) |
