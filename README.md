@@ -3,7 +3,7 @@
   <img src="IMAGES/logo.png" alt="Logo del Progetto" width="150">
 </p>
 
-# pLMS - Lawyer Management System
+# LMS - Lawyer Management System
 
 
 ## 🇺🇸 English Version
