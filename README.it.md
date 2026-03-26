@@ -3,7 +3,7 @@
   <img src="IMAGES/logo.png" alt="Logo del Progetto" width="150">
 </p>
 
-# pLMS - Lawyer Management System
+# LMS - Lawyer Management System
 ## 🇮🇹 Versione Italiano 
 Sistema di gestione per studi legali con funzionalità per clienti, preventivi, pagamenti, attività e calendario.
 
