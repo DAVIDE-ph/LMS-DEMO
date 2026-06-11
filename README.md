@@ -194,21 +194,7 @@ All clients talk to the **same backend** through HTTPS REST APIs and stay perfec
 > [`Screenshots/take-screenshots.mjs`](Screenshots/) Playwright script and have
 > personal data redacted with opaque overlays before saving.
 
-### Mobile & desktop highlights
 
-<p align="center">
-  <img src="Images/Screenshot From 2026-03-03 18-19-57.png" width="30%">
-  <img src="Images/Screenshot From 2026-03-03 18-20-26.png" width="30%">
-  <img src="Images/Screenshot From 2026-03-03 18-20-42.png" width="30%">
-  <br>
-  <img src="Images/Screenshot From 2026-03-03 18-20-53.png" width="30%">
-  <img src="Images/Screenshot From 2026-03-03 18-21-14.png" width="30%">
-  <img src="Images/Screenshot From 2026-03-03 18-21-27.png" width="30%">
-  <br>
-  <img src="Images/Screenshot From 2026-03-03 18-21-40.png" width="30%">
-  <img src="Images/Screenshot From 2026-03-03 18-22-07.png" width="30%">
-  <img src="Images/Screenshot From 2026-03-03 18-22-19.png" width="30%">
-</p>
 
 ### Web app — Light theme
 
