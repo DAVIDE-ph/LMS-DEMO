@@ -19,6 +19,16 @@
   <img src="https://img.shields.io/badge/licenza-Apache%202.0-blue?style=for-the-badge" alt="Licenza">
 </p>
 
+<p align="center">
+  <a href="https://demolms.dph.ovh/">
+    <img src="https://img.shields.io/badge/▶_Prova_la_demo_live-demolms.dph.ovh-4f46e5?style=for-the-badge" alt="Demo live">
+  </a>
+</p>
+
+> **🚀 Demo live** — provala prima di installare nulla: <https://demolms.dph.ovh/>
+> Username `demo` · Password `demo`. La demo gira su un database pulito con
+> clienti fittizi; sentiti libero di creare, modificare e stampare a piacere.
+
 ---
 
 ## 🛡️ I dati dei tuoi clienti restano nei tuoi server. Punto.
