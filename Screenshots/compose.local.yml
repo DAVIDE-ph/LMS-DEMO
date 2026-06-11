@@ -1,0 +1,31 @@
+# =============================================================================
+# Override locale per `Docker Compose/compose.yml`.
+#
+# Lo usiamo SOLO per la macchina di sviluppo Mac, dove le directory
+# `/srv/plms-*` (presenti sul server Linux) non esistono. Sostituiamo i bind
+# mount con cartelle locali in `Screenshots/.local-data/`, che sono
+# `.gitignored`.
+#
+# Il binding al DB Postgres (`192.168.0.33:5532`) e tutti gli altri segreti
+# restano quelli di `compose.env`: l'app usa lo stesso DB della produzione.
+#
+# Avvio:
+#   docker compose \
+#     -f "Docker Compose/compose.yml" \
+#     -f "Screenshots/compose.local.yml" \
+#     --project-directory "Docker Compose" up -d
+#
+# Stop:
+#   docker compose \
+#     -f "Docker Compose/compose.yml" \
+#     -f "Screenshots/compose.local.yml" \
+#     --project-directory "Docker Compose" down
+# =============================================================================
+
+services:
+  app:
+    container_name: plms-app-local
+    volumes: !override
+      - ../Screenshots/.local-data/spool:/data/scan-spool
+      - ../Screenshots/.local-data/uploads:/app/data/uploads
+      - ../Screenshots/.local-data/tokens:/app/tokens

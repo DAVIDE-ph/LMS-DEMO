@@ -1,0 +1,14 @@
+{
+  "name": "plms-screenshots",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Cattura automatica degli screenshot di pLMS web (light + dark, dati blurrati).",
+  "scripts": {
+    "screenshots": "node take-screenshots.mjs",
+    "install:browsers": "playwright install chromium"
+  },
+  "devDependencies": {
+    "playwright": "^1.55.0"
+  }
+}
